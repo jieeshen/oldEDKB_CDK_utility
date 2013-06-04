@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jchempaint">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/oldCdkFP/lib/jchempaint.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/oldCdkFP/lib/jchempaint.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cdk-1.4.17_m">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/oldCdkFP/lib/cdk-1.4.17_m.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
